@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDhn80byD69jCo4oexdKdkCHUgGw9nO6CM",
-  authDomain: "dubai4db.firebaseapp.com",
-  databaseURL: "https://dubai4db-default-rtdb.firebaseio.com",
-  projectId: "dubai4db",
-  storageBucket: "dubai4db.appspot.com",
-  messagingSenderId: "776520121975",
-  appId: "1:776520121975:web:248815949672b2c4371072"
+  apiKey: "AIzaSyAsBa89jDBgSc9cBbpGbKbVENdfKCXu_7s",
+  authDomain: "votecharityorg.firebaseapp.com",
+  databaseURL: "https://votecharityorg-default-rtdb.firebaseio.com",
+  projectId: "votecharityorg",
+  storageBucket: "votecharityorg.appspot.com",
+  messagingSenderId: "531846425757",
+  appId: "1:531846425757:web:350618a9644090b4613874"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
